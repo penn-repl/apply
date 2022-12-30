@@ -30,6 +30,7 @@ body {
   height: 100%;
 }
 
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -177,11 +178,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #990000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #990000;
   }
 }
 
@@ -269,7 +270,7 @@ p > img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 30px 0px 20px 0px;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -279,8 +280,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 220px;
+  height: 40px;
   margin-right: 15px;
 
   @include mobile {
@@ -409,6 +410,9 @@ nav {
 .wrapper-main {
   padding-bottom: 134px;
 }
+#a {
+    margin-right: auto;
+}
 
 .wrapper-footer {
   position: absolute;
@@ -433,7 +437,7 @@ body:after {
     content: '';
 }
 
-#bar {
+#bar1 {
     background: #000;
     height: 7px;
     background-size: cover;
@@ -444,6 +448,34 @@ body:after {
     overflow: hidden;
     z-index: 1000;
 }
+
+#bar2 {
+    background: #011F5B;
+    height: 7px;
+    background-size: cover;
+    background-position: left 60%;
+    position: fixed;
+    top: 7px;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+#bar3 {
+    background: #990000;
+    height: 7px;
+    background-size: cover;
+    background-position: left 60%;
+    position: fixed;
+    top: 14px;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1000;
+
+}
+
+
+
 
 .post h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -461,6 +493,7 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+
 }
 
 .author_title{
