@@ -7,30 +7,22 @@ permalink: /apply/
 
 <img align="center" width="100%" src="/images/penn3.png">
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Instructions
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+The deadline to apply is **March 15th, 2023**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **April 1st, 2023**. The application requires the following data:
 
+- Two letters of recommendation
+- CV or Resume
+- 1 page personal statement describing your goals, your interest in programming languages research, and why REPL is a good fit for you
+- 0.5 page diversity statement describing how being underrepresented (in any setting) can be a strength
 
-<div style="text-align: center;">
-    <iframe class = "center" src="https://docs.google.com/forms/d/e/1FAIpQLSfn3pG4s7RE_J-5ofXnfsMciEQ7tjz4CHXjzkb9Dja_xrqtow/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
+## Eligibility
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Students eligible for REPL must meet all the following critera:
 
+1. Currently an undergraduate institution.
+2. A U.S. citizen, national, or permanent resident.
+3. Have at least one year left of undergraduate study.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+**If you're eligible and have reviewed the instructions please apply [here](https://forms.gle/5h5gbMQc39ApBtPp8).**
+
