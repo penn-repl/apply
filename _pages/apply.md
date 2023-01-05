@@ -20,7 +20,7 @@ The deadline to apply is **March 15th, 2023**. Please check below if you meet el
 
 Students eligible for REPL must meet all the following critera:
 
-1. Currently an undergraduate institution.
+1. Currently attending an undergraduate institution.
 2. A U.S. citizen, national, or permanent resident.
 3. Have at least one year left of undergraduate study.
 
