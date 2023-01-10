@@ -7,7 +7,7 @@ permalink: /plclub+/
 <img align="center" width="100%" src="/images/plclub+.png">
 
 ## PLClub+
-PLClub+ is an undergraduate supplement to PLClub, the weekly meeting of Penn's programming language research group. REPL students will participate in PLClub+ in addition to their research with PLClub. It consists of 4 activities:
+In addition to their research, REPL students will participate in PLClub+, an undergraduate-level supplement to the usual weekly PLClub seminar. PLClub+ consists of 4 activities:
 - **Software Foundations Mini-Course.** Condensed version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), covers essential prerequisites for programming languages research. Taught by a PLClub PhD student twice a week.
 - **Reading Club.** Covers classic papers in programming languages. Led by a PLClub PhD student once a week.
 - **Seminar.** An undergraduate friendly seminar series, covering a variety of research happening in and outside of PLClub. Happens once a week.
@@ -19,13 +19,19 @@ See below for more details about each activity in PLClub+.
 
 ## Software Foundations Mini-Course
 
-[Software Foundations](https://softwarefoundations.cis.upenn.edu) is a book series which began in PLClub and is now used internationally as an introduction to formal proofs about the properties of programs and programming languages. This mini-course covers a condensed version of the material from [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), Penn's graduate programming languages course. Below we outline the curriculum, with brief synopses of topics we cover.
+[Software Foundations](https://softwarefoundations.cis.upenn.edu) is series of
+books which began in PLClub, and are now used internationally as a standard
+introduction to formal proofs about the properties of programs and programming
+languages.  This mini-course is condensed version Penn's graduate programming
+languages course, [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html),
+which uses Software Foundations as its textbook. Below we outline the curriculum, with brief
+synopses of topics we cover.
 
 #### <a href="https://softwarefoundations.cis.upenn.edu/lf-current/index.html">Volume 1: Logical Foundations</a>
 
-- **Week 1: Functional Programming in Coq, Proof by Induction.** Coq lets you write programs and prove them correct in the same language. These lessons introduce students to simple programs and simple proofs of their correctness.
+- **Week 1: Functional Programming in Coq, Proof by Induction.** Coq lets you write programs and prove them correct in the same language. These lessons introduce students to writing functional programs and building proofs of their correctness.
 
-- **Week 2: Working with Structured Data, Polymorphism and Higher-Order Functions.** Building on the introduction to functional programming, these sections introduce new programming constructs. These let us write more interesting programs and more interesting proofs e.g. list processing programs.
+- **Week 2: Working with Structured Data, Polymorphism and Higher-Order Functions.** Building on the introduction to functional programming, these sections introduce new programming constructs, which let us write more interesting programs and more interesting proofs.
 
 - **Week 3: More Basic Tactics, Logic in Coq.** Introduces more proof techniques, called tactics, to help you write proofs in Coq. Exercises these proof skills by proving logical propositions involving conjunction, disjunction, negation, and more.
 
