@@ -35,11 +35,15 @@ synopses of topics we cover.
 
 - **Week 3: More Basic Tactics, Logic in Coq.** Introduces more proof techniques, called tactics, to help you write proofs in Coq. Exercises these proof skills by proving logical propositions involving conjunction, disjunction, negation, and more.
 
-- **Week 4: Inductively Defined Propositions, Total and Partial Maps.** To write more interesting propositions, we often use inductively defined propositions. For example, whether a natural number is even can be defined as an inductive proposition. These sections demonstrate how to construct and prove correct propositions involving inductively defined propositions and total/partial maps.
+- **Week 4: Inductively Defined Propositions, Total and Partial Maps.** These sections demonstrate how to construct and prove theorems involving inductively defined propositions, which are a much broader class of propositions than the ones to this point.
+As a case study using the tools learned so far, this section also investigates the theory of total/partial maps.
 
-- **Week 5: The Curry-Howard Correspondence, Induction Principles.** These sections zoom out. Both illuminate details that were somewhat implicit up to this point. The Curry-Howard correspondence relates programming and proving in a deep way. Induction principles let us prove things about inductive data like lists and trees.
+- **Week 5: The Curry-Howard Correspondence, Induction Principles.** These sections zoom out and illuminate details that were somewhat
+implicit up to this point. The Curry-Howard correspondence relates programming and proving in a deep way, while induction principles let us
+prove things about inductive data like lists and trees.
 
-- **Week 6: Properties of Relations, Simple Imperative Programs.** Constructing and proving properties of relations. Applying all the techniques up to this point to construct and reason about simple imperative programs.
+- **Week 6: Properties of Relations, Simple Imperative Programs.** In this section, we begin by investigating properties of relations.
+Applying all the techniques up to this point to construct and reason about simple imperative programs.
 
 #### <a href="https://softwarefoundations.cis.upenn.edu/plf-current/index.html">Volume 2: Programming Language Foundations</a>
 
@@ -49,27 +53,31 @@ synopses of topics we cover.
 
 - **Week 9: Type Systems, The Simply Typed-Lambda Calculus (STLC).** Introduction to type theory and the model organism of programming languages, the simply-typed lambda calculus. A useful precursor to more advanced types, more advanced languages.
 
-- **Week 10: Properties of STLC, A Typechecker for STLC.** Considering which properties hold of the STLC and proving them. Additionally, how to build a correct typechecker for the language. Both lessons generalize to languages with more advanced types and features.
+- **Week 10: Properties of STLC, A Typechecker for STLC.** Investigating which properties hold of the STLC and proving them. Additionally, how to build a correct typechecker for the language. Both lessons generalize to languages with more advanced types and features.
 
 
 ## Reading Club
 
-Programming languages a rich history of deep intellectual contributions to computer science. Reading club helps REPL students digest these insights, each week discussing papers like those below. A PLClub PhD student leads discussions, both helping students interpret and develop reading strategies for making sense of papers.
+Programming languages a rich history of deep intellectual contributions to
+computer science. Each week, REPL students will digest these insights by reading
+and discussing papers like the ones below.  A PLClub PhD student will lead
+discussions, helping students to both understand the text, and to develop
+reading strategies for making sense of future papers.
 
 - **The next 700 programming languages (Peter Landin, 1969).** This paper pioneers the move to consider powerful “core” languages in designing programming languages. Instead of everyone inventing their own language, they ought to first ask if it can be encoded in an existing “core” language. Landin proposes his own core language, ISWIM, based on the lambda calculus. Today, most functional programming languages build off an expressive lambda calculus “core” as suggested by Landin.
 
-- **An axiomatic basis for computer programming (Peter Landin, 1969).** Introduces Hoare logic: a means to assert that computations behave in specific ways. You assert preconditions (what must be true before running the computation) and postconditions (what must be true after running the computation). Then the logic gives you rules for determining if the postcondition follows from both the precondition and “evidence” provided by the computation. Today, a cottage industry of Hoare-style logics exist and continue to develop for increasingly diverse programming languages.
+- **An axiomatic basis for computer programming (Peter Landin, 1969).** Introduces Hoare logic: a means to assert that computations behave in specific ways. You assert preconditions (what must be true before running the computation) and postconditions (what must be true after running the computation). Then the logic gives you rules for determining if the postcondition follows from both the precondition and “evidence” provided by the computation. Today, a cottage industry of Hoare-style logics exists, and researchers continue to develop them for increasingly diverse and complex languages.
 
-- **Towards a theory of type structure (John Reynolds, 1974).** Introduces polymorphism into programming languages, greatly expanding the space of functions that typed programming languages could write. Precedes his work on parametricity, formalizing what it means to have polymorphism in a language. Today, all popular typed functional programming languages include polymorphism.
+- **Towards a theory of type structure (John Reynolds, 1974).** Introduces polymorphism into programming languages, greatly expanding the space of functions that typed programming languages could write. Precedes Reynolds' work on parametricity, which characterizes the expressivness of polymorphic functions. Today, all popular typed functional programming languages include polymorphism.
 
-- **On the expressive power of programming languages (Matthias Felleisen, 1991).** What is meant when someone claims one language is more expressive than another? Surely it can’t just be about whether it’s Turing-complete or not. Because we often claim differences in expressiveness across Turing-complete languages. This paper clarifies the intuitive sense in which we claim the expressive power of a programming language. Today, we continue to use this approach to compare languages which add/remove different features.
+- **On the expressive power of programming languages (Matthias Felleisen, 1991).** What is meant when someone claims one language is more expressive than another? This paper formalizes the intuitive sense in which we claim the expressive power of a programming language. Today, we continue to use this approach to compare languages which add/remove different features.
 
 - **More on advice on structuring compilers and proving them correct (Thatcher et al., 1981).** A follow-up, refinement to a paper proposing a unified view of compiler correctness. Namely, that correct compilers must preserve or refine the meaning of the original program. Frames the problem algebraically. Today, most compiler correctness theorems still take this form.
 
 
 ## Seminar
 
-To complement the PhD-oriented PLClub seminar, we organize an undergraduate-oriented PLClub+ seminar. Only REPL students will be allowed to attend and a generous amount of discussion time available for discussion and questions. Below are example topics that REPL students can expect to see at seminar.
+To complement the PhD-student-oriented PLClub seminar, REPL students will also attend an undergraduate-oriented PLClub+ seminar. *Only* REPL students will be allowed to attend, and a generous amount of discussion time available for discussion and questions. Below are example topics that REPL students can expect to see at the PLClub+ seminar.
 
 - **Seeing the world through Lenses (Li-Yao Xia).** Lenses are the prototypical bidirectional transformations, programs which may be run in one direction to view data as a fragment (e.g., a row) of some source (e.g., a database), and in another direction to synchronize the source after updating the visible fragment. Perhaps because of their simplicity, lenses arise in domains seemingly unrelated to bidirectional programming. Records in programming languages, subtyping, interactive systems, machine learning, laziness... Is it merely a coincidence? Or could lenses be a fundamental particle of PL? Discovering lenses in the wild may forever change how you see the world.
 
