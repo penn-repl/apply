@@ -24,7 +24,7 @@ While applying keep in mind that **we are looking for research experience or apt
 
 ## Eligibility
 
-Students eligible for REPL must meet all the following critera:
+Students eligible for REPL must meet all the following criteria:
 
 1. Currently attending an undergraduate institution.
 2. A U.S. citizen, national, or permanent resident.
