@@ -11,7 +11,7 @@ permalink: /apply/
 
 The deadline to apply is **March 15th, 2023**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **April 1st, 2023**. We review applications on a rolling basis, so if you apply earlier you may receive an earlier notice of acceptance. The application requires the following data:
 
-- Up to two letters of recommendation (must submit at least one)
+- At least one letter of recommendation (may submit up to two)
 - 1 page personal statement describing your interest in pursuing a PhD (including what scientific questions you're curious about), how you've pursued those interests so far (through research-related experiences), and why REPL is a good fit for you
 - CV or Resume
 - Unofficial transcript
