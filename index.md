@@ -9,7 +9,7 @@ layout: page
 REPL (Research Experiences for Undergraduates in Programming Languages) is a
 summer program designed to expose students to research in programming languages
 and prepare them for graduate study in the field. Over the course of 10 weeks,
-REPL participants will conduct resarch with faculty and graduate students from
+REPL participants will conduct research with faculty and graduate students from
 [PLClub](https://www.cis.upenn.edu/~plclub/), Penn’s research group in
 programming languages. Students will also attend [PLClub+](plclub+): a series of
 activities, seminars, and workshops intended to give them the tools they need
