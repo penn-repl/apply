@@ -7,7 +7,7 @@ title:
 
 <img align="center" width="33%" src="/images/joey1.png"/>
 
-## <a href="https://www.seas.upenn.edu/~joeyv/">Joey Velez-Ginorio</a> (Codirector) <a href="mailto:joeyv@seas.upenn.edu"><i class="svg-iconh email"></i>
+## <a href="https://www.seas.upenn.edu/~joeyv/">Joey Velez-Ginorio</a> (Director) <a href="mailto:joeyv@seas.upenn.edu"><i class="svg-iconh email"></i>
 
 
 <p class="nn">
@@ -16,7 +16,7 @@ Joey is a PhD student advised by Steve Zdancewic and Konrad Körding at the Univ
 
 <img class="vv" align="center" width="33%" src="/images/steve1.png"/>
 
-## <a href="https://www.cis.upenn.edu/~stevez/">Steve Zdancewic</a> (Codirector, Advisor) <a href="mailto:stevez@cis.upenn.edu"><i class="svg-iconh email"></i>
+## <a href="https://www.cis.upenn.edu/~stevez/">Steve Zdancewic</a> (PI, Advisor) <a href="mailto:stevez@cis.upenn.edu"><i class="svg-iconh email"></i>
 
 
 <p class="nn">
