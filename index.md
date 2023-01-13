@@ -13,7 +13,7 @@ REPL participants will conduct resarch with faculty and graduate students from
 [PLClub](https://www.cis.upenn.edu/~plclub/), Penn’s research group in
 programming languages. Students will also attend [PLClub+](plclub+): a series of
 activities, seminars, and workshops intended to give them the tools they need
-to succeed in PL research.
+to succeed in programming languages research.
 
 Housing, travel, and a $6,000 stipend are provided for participants. Our objectives in REPL are the following:
 
