@@ -31,4 +31,6 @@ A student with any of the following traits is especially encouraged to [apply](a
 - **Interest in a PhD in Computer Science**
 
 ## When is REPL?
-REPL takes place over 10 weeks in the summer, exact timing subject to on-campus housing availability. Start date is approximately June 1st, end date is approximately August 10th.
+REPL takes place over 10 weeks in the summer, exact timing subject to on-campus housing availability. Start date is approximately May 30th, end date is approximately August 4th. 
+
+![support](support.png "Sponsors")
