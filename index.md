@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img align="center" width="100%" src="/images/penn1.png">
+<img align="center" width="100%" src="/images/home.jpg">
 
 ##  What is REPL?
 
