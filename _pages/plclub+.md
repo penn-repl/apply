@@ -7,8 +7,9 @@ permalink: /plclub+/
 <img align="center" width="100%" src="/images/plclub+.png">
 
 ## PLClub+
-In addition to their research, REPL students will participate in PLClub+, an undergraduate-level supplement to the usual weekly PLClub seminar. PLClub+ consists of 4 activities:
-- **Software Foundations Mini-Course.** Condensed version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), covers essential prerequisites for programming languages research. Taught by a PLClub PhD student twice a week.
+In addition to their research, REPL students will participate in PLClub+, an undergraduate-level supplement to the usual weekly PLClub seminar. PLClub+ consists of 5 activities:
+- **Software Foundations Mini-Course.** One-week bootcamp based on [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), covers the basics of using the Coq proof assistant. Taught by a PLClub PhD student every day for the first week of the program.
+- **Types and Programming Languages.** 
 - **Reading Club.** Covers classic papers in programming languages. Led by a PLClub PhD student once a week.
 - **Seminar.** An undergraduate friendly seminar series, covering a variety of research happening in and outside of PLClub. Happens once a week.
 - **PhD Application Workshop.** A two-week workshop at the end of REPL. Covers the fundamentals of preparing a strong PhD application.
