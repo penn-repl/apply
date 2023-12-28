@@ -33,4 +33,8 @@ A student with any of the following traits is especially encouraged to [apply](a
 ## When is REPL?
 REPL takes place over 10 weeks in the summer, exact timing subject to on-campus housing availability. Start date is approximately May 30th, end date is approximately August 4th. 
 
+## Sponsors
+
+We're grateful for the support of the NSF and Jane Street which make REPL possible.
+
 <img align="center" width="100%" src="/images/support.png">
