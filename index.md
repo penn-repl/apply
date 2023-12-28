@@ -37,4 +37,4 @@ REPL takes place over 10 weeks in the summer, exact timing subject to on-campus 
 
 We're grateful for the support of the NSF and Jane Street which make REPL possible.
 
-<img align="center" width="100%" src="/images/support.png">
+<img align="center" width="80%" src="/images/support.png">
