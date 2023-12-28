@@ -11,7 +11,7 @@ title:
 
 
 <p class="nn">
-Joey is a PhD student advised by Steve Zdancewic and Konrad Körding at the University of Pennsylvania. His research explores the feasability of designing programming languages for the brain. His current work exploits the semantics of linear logic to design typed functional programming languages which compile to neural networks. More details can be found at his <a href= "https://www.seas.upenn.edu/~joeyv/">personal site.</a>
+Joey is a PhD student advised by Steve Zdancewic and Konrad Körding at the University of Pennsylvania. His research explores the feasability of designing programming languages for the brain. His current focus is on building and proving correct compilers to neural networks. More details can be found at his <a href= "https://www.seas.upenn.edu/~joeyv/">personal site.</a>
 </p>
 
 <img class="vv" align="center" width="33%" src="/images/steve1.png"/>
