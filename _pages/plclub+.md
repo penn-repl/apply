@@ -8,9 +8,9 @@ permalink: /plclub+/
 
 ## PLClub+
 In addition to their research, REPL students will participate in PLClub+, an undergraduate-level supplement to the usual weekly PLClub seminar. PLClub+ consists of 5 activities:
-- **Software Foundations Mini-Course.** One-week bootcamp based on [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), covers the basics of using the Coq proof assistant. Taught by a PLClub PhD student every day for the first week of the program.
-- **Types and Programming Languages.** 
-- **Reading Club.** Covers classic papers in programming languages. Led by a PLClub PhD student once a week.
+- **Software Foundations Bootcamp.** Based on [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), covers the basics of using the Coq proof assistant. Taught every day for the first week of the program.
+- **Types and Programming Languages.**  An introduction to type theory and programming languages. Taught once a week beginning the second week.
+- **Reading Club.** Covers classic papers in programming languages. Discussions moderated by a PLClub PhD student, once a week.
 - **Seminar.** An undergraduate friendly seminar series, covering a variety of research happening in and outside of PLClub. Happens once a week.
 - **PhD Application Workshop.** A two-week workshop at the end of REPL. Covers the fundamentals of preparing a strong PhD application.
 
@@ -18,48 +18,32 @@ See below for more details about each activity in PLClub+.
 
 ---
 
-## Software Foundations Mini-Course
+## Software Foundations Bootcamp
 
-[Software Foundations](https://softwarefoundations.cis.upenn.edu) is series of
+[Software Foundations](https://softwarefoundations.cis.upenn.edu) is a series of
 books which began in PLClub, and are now used internationally as a standard
 introduction to formal proofs about the properties of programs and programming
-languages.  This mini-course is condensed version Penn's graduate programming
+languages.  This bootcamp condenses material in Penn's graduate programming
 languages course, [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html),
-which uses Software Foundations as its textbook. Below we outline the curriculum, with brief
-synopses of topics we cover.
+which uses Software Foundations as its textbook. Below are a sample of covered topics.
 
-#### <a href="https://softwarefoundations.cis.upenn.edu/lf-current/index.html">Volume 1: Logical Foundations</a>
+- **Functional Programming in Coq, Proof by Induction.** Coq lets you write programs and prove them correct in the same language. These lessons introduce students to writing functional programs and building proofs of their correctness.
 
-- **Week 1: Functional Programming in Coq, Proof by Induction.** Coq lets you write programs and prove them correct in the same language. These lessons introduce students to writing functional programs and building proofs of their correctness.
+- **Working with Structured Data, Polymorphism and Higher-Order Functions.** Building on the introduction to functional programming, these sections introduce new programming constructs, which let us write more interesting programs and more interesting proofs.
 
-- **Week 2: Working with Structured Data, Polymorphism and Higher-Order Functions.** Building on the introduction to functional programming, these sections introduce new programming constructs, which let us write more interesting programs and more interesting proofs.
+- **More Basic Tactics, Logic in Coq.** Introduces more proof techniques, called tactics, to help you write proofs in Coq. Exercises these proof skills by proving logical propositions involving conjunction, disjunction, negation, and more.
 
-- **Week 3: More Basic Tactics, Logic in Coq.** Introduces more proof techniques, called tactics, to help you write proofs in Coq. Exercises these proof skills by proving logical propositions involving conjunction, disjunction, negation, and more.
-
-- **Week 4: Inductively Defined Propositions, Total and Partial Maps.** These sections demonstrate how to construct and prove theorems involving inductively defined propositions, which are a much broader class of propositions than the ones to this point.
+- **Inductively Defined Propositions, Total and Partial Maps.** These sections demonstrate how to construct and prove theorems involving inductively defined propositions, which are a much broader class of propositions than the ones to this point.
 As a case study using the tools learned so far, this section also investigates the theory of total/partial maps.
 
-- **Week 5: The Curry-Howard Correspondence, Induction Principles.** These sections zoom out and illuminate details that were somewhat
+- **The Curry-Howard Correspondence, Induction Principles.** These sections zoom out and illuminate details that were somewhat
 implicit up to this point. The Curry-Howard correspondence relates programming and proving in a deep way, while induction principles let us
 prove things about inductive data like lists and trees.
-
-- **Week 6: Properties of Relations, Simple Imperative Programs.** In this section, we begin by investigating properties of relations.
-Applying all the techniques up to this point to construct and reason about simple imperative programs.
-
-#### <a href="https://softwarefoundations.cis.upenn.edu/plf-current/index.html">Volume 2: Programming Language Foundations</a>
-
-- **Week 7: Program Equivalence, Hoare Logic I.** Shows how to demonstrate the equivalence of two programs using variable assignment and loops. Moreover, introduces Hoare Logic: a tool for proving the correctness of such programs.
-
-- **Week 8: Hoare Logic II, Small-Step Operational Semantics.** A continuation of asserting program behavior through Hoare Logic. Introduction to operational semantics, a way of giving meaning to a program by defining how it "steps" from the initial program to the final result.
-
-- **Week 9: Type Systems, The Simply Typed-Lambda Calculus (STLC).** Introduction to type theory and the model organism of programming languages, the simply-typed lambda calculus. A useful precursor to more advanced types, more advanced languages.
-
-- **Week 10: Properties of STLC, A Typechecker for STLC.** Investigating which properties hold of the STLC and proving them. Additionally, how to build a correct typechecker for the language. Both lessons generalize to languages with more advanced types and features.
 
 
 ## Reading Club
 
-Programming languages a rich history of deep intellectual contributions to
+Programming language theory has a rich history of deep intellectual contributions to
 computer science. Each week, REPL students will digest these insights by reading
 and discussing papers like the ones below.  A PLClub PhD student will lead
 discussions, helping students to both understand the text, and to develop
