@@ -11,7 +11,7 @@ permalink: /apply/
 The deadline to apply is **March 1st, 2024**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **March 8th, 2024**. The application requires the following data:
 
 - One letter of recommendation
-- 1 page personal statement describing your interest in pursuing a PhD (including what scientific questions you're curious about), how you've pursued those interests so far (through research-related experiences), and why REPL is a good fit for you
+- 1 page personal statement (max 5000 characters) describing your interest in pursuing a PhD (including what scientific questions you're curious about), how you've pursued those interests so far (through research-related experiences), and why REPL is a good fit for you
 - CV or Resume
 - Unofficial transcript
 
