@@ -40,6 +40,14 @@ As a case study using the tools learned so far, this section also investigates t
 implicit up to this point. The Curry-Howard correspondence relates programming and proving in a deep way, while induction principles let us
 prove things about inductive data like lists and trees.
 
+## Types and Programming Languages
+
+A weekly lecture introduces students to type theory and programming languages, based on material from Benjamin Pierce's [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/). Students will learn about various lambda calculi and how to prove properties about them. Below are a sample of covered topics.
+
+- **Untyped lambda calculus.** The untyped lambda calculus is a "simple" programming language. It's a programming language with only a handful of moving parts. Despite this simplicity it's incredibly expressive, it's a Turing-complete programming language. In this section we explore how to formally define a lambda calculus, and how to represent various programs.
+- **Simply typed lambda calculus.** The simply typed lambda calculus introduces types to the lambda calculus. With simple types, we've made a dramatic shift from the untyped lambda calculus. We lose some expressive power but we can now statically determine properties of programs, without running them. In this section we explore how to define a type system and how to prove that it's "correct."
+- **Polymorphically typed lambda calculus.** The polymorphic lambda calculus introduces stronger types to the lambda calculus. This helps it recover some of the expressive power lost by simple types while also showcasing how types can statically enforce strong properties of programs like parametricity. In this section we explore how to introduce polymorphism into a lambda calculus and how to prove that it's "correct."
+- **Strong normalization.** So far the course has defined correctness of a type system in terms of type safety: well typed programs can always take a step of computation. We now introduce a stronger notion of correctness called strong normalization: well typed programs always terminate. In this section we explore how to prove strong normalization with logical relations.
 
 ## Reading Club
 
