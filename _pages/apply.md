@@ -8,7 +8,7 @@ permalink: /apply/
 
 ## Instructions
 
-The deadline to apply is **March 1st, 2024**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **March 8th, 2024**. The application requires the following data:
+Applications will open **January 1st, 2025**. The deadline to apply is **February 15th, 2025**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **March 1st, 2025**. The application requires the following data:
 
 - One letter of recommendation
 - 1 page personal statement (max 5000 characters) describing your interest in pursuing a PhD (including what scientific questions you're curious about), how you've pursued those interests so far (through research-related experiences), and why REPL is a good fit for you
@@ -30,5 +30,5 @@ Students eligible for REPL must meet all the following criteria:
 3. Have at least one year left of undergraduate study.
 4. Have completed coursework or projects involving programming and coursework or projects involving mathematical proofs.
 
-**If you're eligible and have reviewed the instructions please apply through NSF's ETAP portal [here](https://etap.nsf.gov/award/1291/opportunity/7164).**
+**If you're eligible and have reviewed the instructions please apply through NSF's ETAP portal [~~here~~](https://penn-repl.github.io/apply/) (Link opens on Jan. 1st)**
 
