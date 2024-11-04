@@ -15,7 +15,7 @@ programming languages. Students will also attend [PLClub+](plclub+): a series of
 activities, seminars, and workshops intended to give them the tools they need
 to succeed in programming languages research.
 
-Housing, travel, and a $6,000 stipend are provided for participants. Our objectives in REPL are the following:
+Housing, travel, and a $7,000 stipend are provided for participants. Our objectives in REPL are the following:
 
  1. **Engage students in programming languages research**
  2. **Teach students the prerequisites for research in programming languages**
