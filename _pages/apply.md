@@ -8,7 +8,7 @@ permalink: /apply/
 
 ## Instructions
 
-Applications will open **January 1st, 2025**. The deadline to apply is **February 15th, 2025**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by **March 1st, 2025**. The application requires the following data:
+Applications will open **January 15th, 2025**. The deadline to apply is **March 15th, 2025**. Please check below if you meet eligibility criteria before applying. Decisions of acceptance will be made by end of **end of March**. The application requires the following data:
 
 - One letter of recommendation
 - 1 page personal statement (max 5000 characters) describing your interest in pursuing a PhD (including what scientific questions you're curious about), how you've pursued those interests so far (through research-related experiences), and why REPL is a good fit for you
