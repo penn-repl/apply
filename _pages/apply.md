@@ -30,5 +30,5 @@ Students eligible for REPL must meet all the following criteria:
 3. Have at least one year left of undergraduate study.
 4. Have completed coursework or projects involving programming and coursework or projects involving mathematical proofs.
 
-**If you're eligible and have reviewed the instructions please apply through NSF's ETAP portal [~~here~~](https://penn-repl.github.io/apply/) (Link opens on Jan. 1st)**
+**If you're eligible and have reviewed the instructions please apply through NSF's ETAP portal [~~here~~](https://penn-repl.github.io/apply/) (Link opens on Jan. 15th)**
 
